@@ -1,0 +1,75 @@
+html, body{
+	font-family: Montserrat;
+	padding: 0;
+	margin: 0;
+}
+
+
+header{
+	background-color: purple;
+	padding: 40px 20px 40px 20px;
+	text-align: center;
+}
+
+h1{
+	font-size: 90px;
+	color: white;
+
+}
+
+header img{
+	border-radius: 174px;
+	width: 300px;
+	border: 10px solid #00000;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	background-color: cornsilk;
+	padding: 0 20px;
+}
+
+img.big-image{
+	max-width: 100%;
+
+}
+
+p.caption{
+	font-size: 16px;
+	color: lightgrey;
+	font-style: italic;
+
+}
+
+ul{
+	list-style: none;
+	padding: 0
+	margin: 0;
+}
+
+a{
+	color: red;
+	text-decoration: none
+}
+
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: grey;
+}
+
+footer ul{
+	text-align: center;
+}
+
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
+}
+
+
+<header>
+		<img src="https://i.pinimg.com/originals/bc/75/b0/bc75b0f809dca1352a2ec3923b02e009.jpg">
+		<h2>cute animals</h2>
+	</header> 
